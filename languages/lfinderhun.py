@@ -68,7 +68,7 @@ if weba == "y":
             print("\033[1;34;40m \n")
             print('kockázat: közepes')
             print('a barátaid is lehetnek veszélyesek')
-
+            exit()
     
                        
 if weba == "n":
