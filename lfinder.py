@@ -68,6 +68,7 @@ if weba == "y":
             print("\033[1;34;40m \n")
             print('risk: medium')
             print('even your freinds can be dangerous')
+            exit()
 
     
                        
