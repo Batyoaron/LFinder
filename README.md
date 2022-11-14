@@ -18,4 +18,7 @@ LFinder: This program can be detect dangerous links from 7 questions
     
 
 
-     
+ languages cuz why not?
+
+    English
+    Hungaryan     
