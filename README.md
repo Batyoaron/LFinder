@@ -9,6 +9,6 @@ this program can be detect dangerous links from 7 questions
     git clone https://github.com/Batyoaron/LFinder
     cd LFinder
     pkg install python
-    pip3 install -r requirements.txt
+    
     python3 lfinder.py
      
