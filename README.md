@@ -1,7 +1,8 @@
 # LFinder
-# ONLY JUST A FEW THINGS WORK IN THIS UPDATE
 
-LFinder: This program can be detect dangerous links from 7 questions
+Version: v2.2
+
+LFinder: This program can be detect dangerous links, just paste it
 
  
  Downloading:
