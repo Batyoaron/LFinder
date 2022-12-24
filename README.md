@@ -17,7 +17,13 @@ LFinder: This program can be detect dangerous links, just paste it
  And then run:
 
     python3 lfinder.py
+
+
+upcoming upgrades:
     
+    V2.3: setup menu, you have to type setup
+    V3.0: It can detect onion browser
+    V4.0: it can detect duck duck go browser
 
 
  
