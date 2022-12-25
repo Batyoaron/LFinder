@@ -23,6 +23,7 @@ upcoming upgrades:
     
     
     V2.7: it can find now www. Links(it can now but its very week)
+    
     V3.0: It can detect onion browser
     |
     |_ V3.1 Upgrade of the onion browser detection
