@@ -26,7 +26,15 @@ upcoming upgrades:
     V3.0: It can detect onion browser
     |
     |_ V3.1 Upgrade of the onion browser detection
+    |
+    |_V3.2 Upgrade of the onion browser detection
+
+
     V4.0: it can detect duck duck go browser
+    |
+    |_ V4.1 Upgrade of the duck duck go browser detection
+    |
+    |_V4.2 Upgrade of the duck duck go browser detection
 
 
  
