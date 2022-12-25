@@ -21,9 +21,11 @@ LFinder: This program can be detect dangerous links, just paste it
 
 upcoming upgrades:
     
-    V2.3: setup menu, you have to type setup
+    
     V2.7: it can find now www. Links(it can now but its very week)
     V3.0: It can detect onion browser
+    |
+    |_ V3.1 Upgrade of the onion browser detection
     V4.0: it can detect duck duck go browser
 
 
